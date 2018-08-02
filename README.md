@@ -15,13 +15,13 @@
 **TECHNICAL FEATURES:**
 
 **FRONTEND:**
-        - The application interface renders depending upon the device screen(mobile or web)
-        - Used **Responsive Web Design Styling Techniques** for making the application device screen independent 
-        - Used **handlebarsJS** for designing and rendering of the front end
-        - Used **Express-Session** to maintain the user details within a given session
-        - Used **ExpressJS** for building web application
-        - Used **momentJS** for displaying the timestamp
-        - Hosted this application in **Heroku cloud platform services**
+   - The application interface renders depending upon the device screen(mobile or web)
+   - Used **Responsive Web Design Styling Techniques** for making the application device screen independent 
+   - Used **handlebarsJS** for designing and rendering of the front end
+   - Used **Express-Session** to maintain the user details within a given session
+   - Used **ExpressJS** for building web application
+   - Used **momentJS** for displaying the timestamp
+   - Hosted this application in **Heroku cloud platform services**
 
 **BACKEND:**
         - Designed a RestAPI for handling authentication, validation and storing of ToDo information in NoSQL mongoDB
@@ -39,6 +39,7 @@
  - **moment:** used for calculating timestamp
  - **MongoDB:** used for handling and maintaining mongoDB
  - **mongoose:** used for manipulating MongoDB
+ 
 **DEMO LINK(HOSTED IN HEROKU):**
  (https://afternoon-harbor-99864.herokuapp.com/)
 
