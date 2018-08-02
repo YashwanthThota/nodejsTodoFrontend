@@ -24,11 +24,11 @@
    - Hosted this application in **Heroku cloud platform services**
 
 **BACKEND:**
-        - Designed a RestAPI for handling authentication, validation and storing of ToDo information in NoSQL mongoDB
-        - Designed the RestAPI by using **mongooseJS**, which helps the RestAPI to interact with MongoDB
-        - Used **jsonwebtoken** library for security and authentication
-        - Used **ExpressJS** for building web application
-        - Hosted this application in **Heroku cloud platform services**
+   - Designed a RestAPI for handling authentication, validation and storing of ToDo information in NoSQL mongoDB
+   - Designed the RestAPI by using **mongooseJS**, which helps the RestAPI to interact with MongoDB
+   - Used **jsonwebtoken** library for security and authentication
+   - Used **ExpressJS** for building web application
+   - Hosted this application in **Heroku cloud platform services**
 
 **LINK FOR BACKEND CODE:**(https://github.com/YashwanthThota/nodejsTodoRESTapi)
  
