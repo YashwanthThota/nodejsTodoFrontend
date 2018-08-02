@@ -14,7 +14,7 @@
 
 **TECHNICAL FEATURES:**
 
-****FRONTEND:****
+###FRONTEND:###
         - The application interface renders depending upon the device screen(mobile or web)
         - Used **Responsive Web Design Styling Techniques** for making the application device screen independent 
         - Used **handlebarsJS** for designing and rendering of the front end
@@ -23,7 +23,7 @@
         - Used **momentJS** for displaying the timestamp
         - Hosted this application in **Heroku cloud platform services**
 
-****BACKEND:****
+###BACKEND:###
         - Designed a RestAPI for handling authentication, validation and storing of ToDo information in NoSQL mongoDB
         - Designed the RestAPI by using **mongooseJS**, which helps the RestAPI to interact with MongoDB
         - Used **jsonwebtoken** library for security and authentication
