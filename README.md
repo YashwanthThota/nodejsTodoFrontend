@@ -18,6 +18,7 @@
    - The application interface renders depending upon the device screen(mobile or web)
    - Used **Responsive Web Design Styling Techniques** for making the application device screen independent 
    - Used **handlebarsJS** for designing and rendering of the front end
+   - Used **Request** library for making Http Request.
    - Used **Express-Session** to maintain the user details within a given session
    - Used **ExpressJS** for building web application
    - Used **momentJS** for displaying the timestamp
